@@ -1,0 +1,344 @@
+[
+    {
+        "cast": [
+            "Chen Guanying",
+            "Jiang Mengxuan",
+            "Norman Chui",
+            "Xun Sun",
+            "Zhang Chunzhong",
+            "Do Yuming",
+            "Xu Zhangchao",
+            "Sze Hung-Bor",
+            "Yang Yong",
+            "Li Ruoxi",
+            "Zhang Di",
+            "Tang Xin"
+        ],
+        "plot": "During the Wulin Assembly, Blood Demon Luo severely damaged groups of heroes. The leader, Huo Changkong, lost half of his moves in the decisive battle. Huo finally injected his power into the young Liu Jing and protected him from evacuation. Fourteen years later, Liu Jing, who claimed to be talented, wanted to learn from Kung fu masters, came to the \"Huo Boxing\" by chance. Master Huo, the owner, allowed him to take the fighting challenge, but Liu Jing failed and had to leave. On the street, Liu Jing met another ace, Tang Baibai, and followed him in search of the one-of-a-kind master, but came to the secret grid of the Black Feather Society and met the Blood Demon.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Fist of Fury: Soul"
+    },
+    {
+        "cast": [
+            "Shogen",
+            "Ronnie Lazaro",
+            "Beauty Gonzalez",
+            "Kaho Minami",
+            "Jeffrey Rowe"
+        ],
+        "plot": "Nao Tsuyama, a disabled athlete, refuses to let his articifical leg hinder his dream to become a professional boxer. His remarkable journey takes him from Japan to the Philippines, and specifically the celebrated ‘Gensan’ quarter which has spawned worldwide stars such as the legendary Manny Pacquiao.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "Gensan Punch"
+    },
+    {
+        "cast": [
+            "Chris Abbey Jr.",
+            "Chris Massoglia",
+            "Miranda Shaughnessy",
+            "Leonard Searcy",
+            "Alan Flszres",
+            "Roceathia Cornell",
+            "Gabriel Kamas",
+            "Ava Justin",
+            "Gabi Del Moral"
+        ],
+        "plot": "After finding out the truth about his alien ancestry, the world's first superhero joins forces with a group of local vigilantes, leading them in a fight against a secret society's plans to enact a new world order.",
+        "rating": 10,
+        "release_year": "2020",
+        "title": "The Protectors"
+    },
+    {
+        "cast": [
+            "John Arcilla",
+            "Dennis Trillo",
+            "Dante Rivero",
+            "Christopher de Leon",
+            "Lotlot De Leon",
+            "Leo Martinez",
+            "Joey Marquez",
+            "Eric Fructuoso",
+            "Vandolph",
+            "Agot Isidro",
+            "Dolly de Leon",
+            "Soliman Cruz",
+            "Lao Rodriguez",
+            "Andrea Brillantes",
+            "Ina Feleo",
+            "Megan Young",
+            "Levi Ignacio",
+            "Carlos Siguion-Reyna",
+            "Rayver Cruz",
+            "Wendell Ramos",
+            "Isabelle De Leon",
+            "Timmy Harn"
+        ],
+        "plot": "Inspired by true events, the film chronicles the story of Sisoy Salas, a corrupt journalist seeking justice for his colleagues, and convict Roman Rubio, a hired gun who is regularly brought out of prison to perform assassinations.",
+        "rating": 10,
+        "release_year": "2022",
+        "title": "On the Job: The Missing 8"
+    },
+    {
+        "cast": [
+            "Alice Sanders",
+            "David Wayman",
+            "Amy Newton",
+            "Benjamin McMahon",
+            "Julian London",
+            "Elizabeth McNally",
+            "Alexander Nicolaou",
+            "Tibor Babic",
+            "Germán Moreno",
+            "Natasha Moore",
+            "Morgan Sebode",
+            "Jumaane Brown"
+        ],
+        "plot": "A mysterious serial killer attacks the roller skater community in London.  The police cannot catch him, as he is a very skilled and fast roller skater himself.  A group of friends decide to take the matter in their own hands, and organise a man hunt across the streets of London.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Roller Squad"
+    },
+    {
+        "cast": [
+            "Kanon Nanaki",
+            "Minami Tsukui",
+            "Yoko Kadoyama",
+            "Yuka Kobayashi",
+            "Hotaru Nomoto",
+            "Karin Takahashi",
+            "Hekiru Shiina",
+            "Momoyo Koyama",
+            "Suzuko Mimori",
+            "Maho Tomita",
+            "Hinata Sato",
+            "Haruki Iwata",
+            "Moeka Koizumi",
+            "Aina Aiba",
+            "Teru Ikuta",
+            "Ayasa Ito",
+            "Yume Nagatoshi",
+            "Shiina Tanaka"
+        ],
+        "plot": "Revue Starlight ―The LIVE Seiran― BLUE GLITTER is a spin-off of Revue Starlight ―The LIVE― #2 Transition and features the students and staff of Seiran General Art Institute, which aims to win the national high school drama championship overall.  Koharu Yanagi, head of the drama major in the stage department, is impatient because the performance has not been decided.  The impatience spreads to deputy chiefs Ryo Minamifu and Hyonami Honami, and the gears of the three people slowly start to go haywire.",
+        "rating": 10,
+        "release_year": "2020",
+        "title": "Revue Starlight ―The LIVE Seiran― BLUE GLITTER"
+    },
+    {
+        "cast": [
+            "Sugus Buntawit Thrakulpanit",
+            "Teachapat Pinra",
+            "Jane Jaytiya",
+            "Tara Tipa",
+            "Napat Na Ranong",
+            "Lapisara Intarasut"
+        ],
+        "plot": "A condensed version of the series that focuses on the relationships of the two main couples.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Golden Blood - The Movie"
+    },
+    {
+        "cast": [],
+        "plot": "Godzilla the Ride: Giant Monsters Ultimate Battle (ゴジラ・ザ・ライド 大怪獣頂上決戦 Gojira za Raido Daikaijū Chōjō Kessen), or simply Godzilla the Ride (ゴジラ・ザ・ライド Gojira za Raido), is a flying theater motion simulator ride located in the Seibuen amusement park in Tokorozawa, Saitama, Japan. Up to 70 guests are placed at the center of a battle between Godzilla and King Ghidorah.[1] It opened on May 19, 2021, in conjunction with the park's grand reopening.[2] The five-minute[1] ride film is directed by Takashi Yamazaki, who previously directed Godzilla in the 2007 film Always: Sunset on Third Street 2, in partnership with Shoichiro Tsuno of Katana Marketing and Entertainment Co., Ltd.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Godzilla the Ride: Giant Monsters Ultimate Battle"
+    },
+    {
+        "cast": [
+            "Maaya Uchida",
+            "Eriko Matsui",
+            "Atsumi Tanezaki",
+            "Manami Numakura",
+            "Yui Ishikawa",
+            "Yuna Taniguchi"
+        ],
+        "plot": "The M-1 Tag Team Grand Prix finally kicks off! The race will determine the top mermaid and winner of 10 million yen! Too bad there’s a big frog and a cyclone in the way.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Alice Gear Aegis Expansion: Heart Pounding! Actress Packed Mermaid Grand Prix!"
+    },
+    {
+        "cast": [
+            "Momoyo Koyama",
+            "Suzuko Mimori",
+            "Hinata Sato",
+            "Maho Tomita",
+            "Haruki Iwata",
+            "Moeka Koizumi",
+            "Aina Aiba",
+            "Teru Ikuta",
+            "Ayasa Ito",
+            "Karin Takahashi",
+            "Mirai Hinata",
+            "Miyu Suenaga",
+            "Hekiru Shiina",
+            "Yume Nagatoshi",
+            "Kenjiro Tsuda"
+        ],
+        "plot": "Shōjo☆Kageki Revue Starlight ―The LIVE― #3 Growth is a stage play that was held in the Stellar Ball bar and concert hall at the Shinagawa Prince Hotel in Tokyo, Japan from July 27 to August 1, 2021. The play is directed by Akiko Kodama and written by Kaori Miura, and features a new story that immediately follows the events of Shōjo☆Kageki Revue Starlight -The LIVE ONLINE-.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Revue Starlight ―The LIVE― #3 Growth"
+    },
+    {
+        "cast": [
+            "Zakir Hussain",
+            "Pavan Malhotra",
+            "Shibani Bedi",
+            "Vivek Vaswani",
+            "Mohit Chadha",
+            "Farid Currim"
+        ],
+        "plot": "The movie follows the journey of Ranveer Malhotra, who against all the odds, has to face deadly obstacles on a plane in order to survive.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Flight"
+    },
+    {
+        "cast": [
+            "Jillian Chiappone",
+            "Santo Curatolo",
+            "Kristina Maria Day"
+        ],
+        "plot": "When tasked with taking 'action' by an elementary teacher as a summer project, two affluent and spoiled siblings face their Dad's bankruptcy and parents' divorce by attempting to win the most complicated contest of all time.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "The Terrible Adventure"
+    },
+    {
+        "cast": [
+            "Marte Sæteren",
+            "Sondre Krogtoft Larsen",
+            "Reinert Kiil",
+            "Viktoria Winge",
+            "Tom Savini",
+            "Ed Gale",
+            "Mathew Karedas",
+            "Kim Sønderholm",
+            "Christina Lindberg",
+            "Inge Tapio",
+            "Ina Krogstad",
+            "Shawn C. Phillips",
+            "Ida Sandli",
+            "Susanne Karin Moe",
+            "Sigurd Nybø",
+            "Stephanie Swift"
+        ],
+        "plot": "The movie that never got made is a story about a man who are willing to risk anything for the next rush. Even his testicles.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Pandemonic"
+    },
+    {
+        "cast": [
+            "Young Block",
+            "Jasmine Rhey",
+            "John Sloan Jr.",
+            "Trey Brooks",
+            "Maare Abera"
+        ],
+        "plot": "Based on the true-life rags to riches story of Young Block. Born without a father, and raised by his mom and her abusive boyfriend, Young Block learns the games and struggles of growing up in the hood.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Block Burner"
+    },
+    {
+        "cast": [
+            "Jana Kesenheimer"
+        ],
+        "plot": "„Three Peaks & In Between“ tells the story of Jana and the Bicycle race of her life.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Three Peaks & In Between"
+    },
+    {
+        "cast": [
+            "Gabriella Enriquez",
+            "Bennett Sommer",
+            "Irene Newman",
+            "Justin Cook",
+            "Wade Augustin",
+            "Leonardo Do Prado",
+            "Fadwiny Jean",
+            "Robert Ramirez",
+            "Andrea Hanna",
+            "Kyshawn Eulett",
+            "Kierstin Rose",
+            "Amanda Gonzalez",
+            "Luigi Sgarbi",
+            "Adam Leneberg",
+            "Lowrence Toussaint",
+            "Donovan Campbell",
+            "Ainhoa Lasso Brand",
+            "Julianna Hines",
+            "Emily Mims",
+            "Hannah Prezant",
+            "Marco Quesada",
+            "Piper Breslin",
+            "John Eastep",
+            "Brandon Woods",
+            "Luisa Diaz",
+            "Wendy Ramirez",
+            "James Ramirez",
+            "Jeremiah Bang"
+        ],
+        "plot": "The story revolves around Justine Carolynn, the girlfriend of hero Mister Perfect (Maxwell Byron), and her journey from turning selfish to selfless. On her path she makes new friends and realizes the hero within her, however, not everyone is a fan of her changing her ways. With comedy and a plot unlike any superhero movie in Hollywood (both Florida and California), this is a film you don’t want to miss.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "The Adventures of Mister Perfect and Friends"
+    },
+    {
+        "cast": [
+            "Loic Mandere",
+            "Christophe Sautron",
+            "Kevin Didier",
+            "Marion Étheve",
+            "Christophe Favre"
+        ],
+        "plot": "",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Zamal Paradise : les voies du seigneur sont absurdes"
+    },
+    {
+        "cast": [
+            "Melvin Brun",
+            "Joram Gertsch",
+            "Andri Eisenegger",
+            "Nicolas Christen"
+        ],
+        "plot": "Two teenagers try to rob the old workplace of one of them.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Untitled Heist Film"
+    },
+    {
+        "cast": [
+            "Bayoumi Fouad",
+            "Sherine",
+            "Sherif Desouqy",
+            "Mohamed Abd El Azim",
+            "Mohamed Lotfi"
+        ],
+        "plot": "The story follows a man who gets into a series of troubles because of a bag he owns, during his stay in a fancy hotel in Dubai.",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Al Shanta"
+    },
+    {
+        "cast": [
+            "Rinaldo Belizario",
+            "Thiago Castro",
+            "Rodrigo Rebello",
+            "Eder Santos",
+            "Camila Molina"
+        ],
+        "plot": "",
+        "rating": 10,
+        "release_year": "2021",
+        "title": "Força de Elite - O Filme"
+    }
+]
